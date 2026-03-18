@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "port": 32997,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to jen",
         "I like to play Minecraft!"
       ]
     },
